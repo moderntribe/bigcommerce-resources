@@ -1,0 +1,196 @@
+{
+    "version": 1,
+    "sections": [
+        {
+            "label": "Themes",
+            "resources": [
+                {
+                    "name": "Flatsome",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Flatsome&txt=Flatsome",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Flatsome&txt=Flatsome"
+                    },
+                    "url": "https:\/\/themeforest.net\/item\/flatsome-multipurpose-responsive-woocommerce-theme\/5484319",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Newspaper",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Newspaper&txt=Newspaper",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Newspaper&txt=Newspaper"
+                    },
+                    "url": "https:\/\/themeforest.net\/item\/newspaper\/5489609",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Avada",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Avada&txt=Avada",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Avada&txt=Avada"
+                    },
+                    "url": "https:\/\/avada.theme-fusion.com\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Enfold",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Enfold&txt=Enfold",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Enfold&txt=Enfold"
+                    },
+                    "url": "https:\/\/themeforest.net\/item\/enfold-responsive-multipurpose-theme\/4519990",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Gateway",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Gateway&txt=Gateway",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Gateway&txt=Gateway"
+                    },
+                    "url": "https:\/\/wordpress.com\/theme\/gateway\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Author Pro",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Author%20Pro&txt=Author%20Pro",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Author%20Pro&txt=Author%20Pro"
+                    },
+                    "url": "https:\/\/my.studiopress.com\/themes\/author\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Authority Pro",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Authority%20Pro&txt=Authority%20Pro",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Authority%20Pro&txt=Authority%20Pro"
+                    },
+                    "url": "https:\/\/my.studiopress.com\/themes\/authority\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Essence Pro",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Essence%20Pro&txt=Essence%20Pro",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Essence%20Pro&txt=Essence%20Pro"
+                    },
+                    "url": "https:\/\/my.studiopress.com\/themes\/essence\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Magazine Pro",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Magazine%20Pro&txt=Magazine%20Pro",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Magazine%20Pro&txt=Magazine%20Pro"
+                    },
+                    "url": "https:\/\/my.studiopress.com\/themes\/magazine\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Wellness Pro",
+                    "description": "",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Wellness%20Pro&txt=Wellness%20Pro",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Wellness%20Pro&txt=Wellness%20Pro"
+                    },
+                    "url": "https:\/\/my.studiopress.com\/themes\/wellness\/",
+                    "categories": [],
+                    "isExternal": true
+                }
+            ]
+        },
+        {
+            "label": "Plugins",
+            "resources": [
+                {
+                    "name": "Yoast SEO",
+                    "description": "The #1 WordPress SEO plugin",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=Yoast%20SEO&txt=Yoast%20SEO",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=Yoast%20SEO&txt=Yoast%20SEO"
+                    },
+                    "url": "https:\/\/yoast.com\/wordpress\/plugins\/seo\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "SearchWP",
+                    "description": "Instantly improve your site search without writing a line of code!",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=SearchWP&txt=SearchWP",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=SearchWP&txt=SearchWP"
+                    },
+                    "url": "https:\/\/searchwp.com\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "FacetWP",
+                    "description": "Use FacetWP to add faceted search to your BigCommerce sites, resource libraries, listing pages and more.",
+                    "thumbnail": {
+                        "small": "https:\/\/placem.at\/things?w=300&h=140&random=FacetWP&txt=FacetWP",
+                        "large": "https:\/\/placem.at\/things?w=600&h=280&random=FacetWP&txt=FacetWP"
+                    },
+                    "url": "https:\/\/facetwp.com\/",
+                    "categories": [],
+                    "isExternal": true
+                }
+            ]
+        },
+        {
+            "label": "Support Links",
+            "resources": [
+                {
+                    "name": "BigCommerce Help Center",
+                    "description": "Welcome! How can we help?",
+                    "thumbnail": {
+                        "small": "",
+                        "large": ""
+                    },
+                    "url": "https:\/\/support.bigcommerce.com\/",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Knowledge Base",
+                    "description": "Find helpful articles, videos and more!",
+                    "thumbnail": {
+                        "small": "",
+                        "large": ""
+                    },
+                    "url": "https:\/\/support.bigcommerce.com\/s\/knowledge",
+                    "categories": [],
+                    "isExternal": true
+                },
+                {
+                    "name": "Community",
+                    "description": "Find answers. Join discussions. Get inspired.",
+                    "thumbnail": {
+                        "small": "",
+                        "large": ""
+                    },
+                    "url": "https:\/\/support.bigcommerce.com\/s\/community",
+                    "categories": [],
+                    "isExternal": true
+                }
+            ]
+        }
+    ]
+}
